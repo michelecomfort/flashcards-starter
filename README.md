@@ -1,3 +1,19 @@
+# FlashCards!
+
+## Abstract
+** For this project, we added to partially-written code to create a flashcards game playable via the command line. Tests were written prior to implementation of our code to provide a roadmap of the code and to plan for bugs.
+
+## How It Works
+
+![flashcards](https://user-images.githubusercontent.com/86859884/137402734-72f9611d-8681-4edc-b388-366dc9d99524.gif)
+
+## Technologies Used
+- JavaScript
+- Node
+
+### Contributing Author
+![Michele Comfort](https://github.com/michelecomfort/flashcards-starter)
+
 # FlashCards Starter Kit
 
 ## Fork This Repo
@@ -20,7 +36,7 @@ npm install
 
 To verify that it is setup correctly, run `npm test` in your terminal. You should have 5 pending tests in your `Card` test file that show up.
 
-Running `node index.js` from the root of your project should result in the following message being displayed in your terminal: 
+Running `node index.js` from the root of your project should result in the following message being displayed in your terminal:
 
 ```bash
 Node server running on port 3000
@@ -74,6 +90,6 @@ The test results will output to the terminal.
 
 Run the command in your terminal `npm run lint` to run the linter on your JavaScript code. There will be errors and warnings right from the start in this starter kit - the linter is still running successfully.
 
-Your linter will look at the JavaScript files you have within the `src` directory and the `test` directory. 
+Your linter will look at the JavaScript files you have within the `src` directory and the `test` directory.
 
 ---

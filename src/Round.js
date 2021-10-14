@@ -26,7 +26,6 @@ class Round {
       this.correctGuesses++
     }
     this.returnCurrentCard()
-
     return turn.giveFeedback()
     }
 
@@ -39,8 +38,9 @@ class Round {
       let score = this.calculatePercentCorrect()
       let message = `** Round over! ** You answered ${score} correctly!`
       console.log(message)
+      return message
     }
-  
+
 
 }
 

@@ -1,7 +1,6 @@
 class Deck {
   constructor(cardCollection) {
     this.cardDeck = cardCollection
-
   }
 
   countCards() {

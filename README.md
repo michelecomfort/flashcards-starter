@@ -12,7 +12,7 @@
 - Node
 
 ### Contributing Author
-![Michele Comfort](https://github.com/michelecomfort/flashcards-starter)
+[Michele Comfort](https://github.com/michelecomfort/flashcards-starter)
 
 # FlashCards Starter Kit
 
